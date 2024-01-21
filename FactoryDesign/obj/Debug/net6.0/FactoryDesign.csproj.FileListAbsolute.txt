@@ -1,0 +1,15 @@
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\bin\Debug\net6.0\FactoryDesign.exe
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\bin\Debug\net6.0\FactoryDesign.deps.json
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\bin\Debug\net6.0\FactoryDesign.runtimeconfig.json
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\bin\Debug\net6.0\FactoryDesign.dll
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\bin\Debug\net6.0\FactoryDesign.pdb
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net6.0\FactoryDesign.csproj.AssemblyReference.cache
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net6.0\FactoryDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net6.0\FactoryDesign.AssemblyInfoInputs.cache
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net6.0\FactoryDesign.AssemblyInfo.cs
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net6.0\FactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net6.0\FactoryDesign.dll
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net6.0\refint\FactoryDesign.dll
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net6.0\FactoryDesign.pdb
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net6.0\FactoryDesign.genruntimeconfig.cache
+C:\Users\easyi\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net6.0\ref\FactoryDesign.dll
